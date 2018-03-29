@@ -1,6 +1,6 @@
 {
     "model" : {
-        "architecture":         "Full Yolo",
+        "backend":         "Full Yolo",
         "input_size":           200,
         "anchors":              [0.87,5.03, 1.06,1.56, 2.15,3.87, 4.12,1.77, 4.79,5.25],
         "max_box_per_image":    10,        
